@@ -19,7 +19,6 @@
 <p align="left">
 <a href="https://twitter.com/marwanfcis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="marwanfcis" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/marwan-el-adawy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="marwan-el-adawy" height="30" width="40" /></a>
-<a href="https://codesandbox.com/marwan el-adawy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="marwan el-adawy" height="30" width="40" /></a>
 <a href="https://fb.com/maro1100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="maro1100" height="30" width="40" /></a>
 </p>
 
