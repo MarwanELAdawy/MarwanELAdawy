@@ -22,6 +22,9 @@
 <a href="https://fb.com/maro1100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="maro1100" height="30" width="40" /></a>
 </p>
 
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+
+
 
 
 
