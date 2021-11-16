@@ -22,11 +22,11 @@
 <a href="https://fb.com/maro1100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="maro1100" height="30" width="40" /></a>
 </p>
 
-<a href="https://app.daily.dev/Maro117110"><img src="https://api.daily.dev/devcards/e00ed47eb3454ae6bb214ee9b048d6ab.png?r=rmi" width="400" alt="Marwan El-Adawy's Dev Card"/></a>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marwaneladawy&show_icons=true&theme=onedark&locale=en&layout=compact" alt="marwaneladawy" /></p>
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/raw/master/coding.gif?raw=true" width="333" height="237" style="max-width:100%;">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marwaneladawy&show_icons=true&theme=dark&locale=en" alt="marwaneladawy" /></p>
+
+<a href="https://app.daily.dev/Maro117110"><img src="https://api.daily.dev/devcards/e00ed47eb3454ae6bb214ee9b048d6ab.png?r=rmi" width="400" alt="Marwan El-Adawy's Dev Card"/></a>
 
