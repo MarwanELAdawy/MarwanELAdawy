@@ -1,5 +1,5 @@
 # 💫About Me :
-I'm currently working in MEARN Stack development field
+I'm currently working in MEARN Stack development
 I'm looking for help people to lean web development
 I'm currently learning Devops Engineering
 Ask me about anything in our stack in webdevelopment or any kind of questions in software engineering cycle 
